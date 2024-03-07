@@ -3,8 +3,8 @@
     <div class="rule">
       <h1>Luật chơi</h1>
       <p>
-        Đây là 1 trò chơi đơn giản. Khi đến lượt người chơi nào quay ấn roll đến số điểm bạn thân thấy muốn dừng thì
-        dừng. Thỏa mãn số điểm ở dưới thì ấn hold là thắng. Nếu người chơi quay 2 ô xúc xắc ,1 trong 2 ô rơi vào 1 điểm
+        Đây là 1 trò chơi đơn giản. Khi đến lượt người chơi nào quay ấn roll đến số điểm bản thân thấy muốn dừng thì
+        dừng hoặc hold lại sẽ chuyển lượt quay cho người chơi còn lại. Thỏa mãn số điểm ở dưới thì ấn hold là thắng. Nếu người chơi quay 2 ô xúc xắc ,1 trong 2 ô rơi vào 1 điểm
         toàn bộ số điểm mà sau khi ấn hold mà người chơi đó sẽ mất. Vậy nên nếu thấy số điểm vừa đủ hay ấn hold để
         chuyển lượt đừng quá tham lam nhé. Số điểm sẽ cộng dồn sau mỗi lần hold . Điểm để win bạn có thể tùy chỉnh trước
         khi ấn new game max là 100, khi ấn new game thì không thay đổi được điểm max, load lại trang để đổi điểm win và
